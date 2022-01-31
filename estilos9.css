@@ -1,0 +1,31 @@
+body{
+    background-color: #CFC;
+    font-family: Georgia, Cambria, serif;
+    font-size: 16px;
+}
+p{
+    color:#00F;
+}
+h1{
+    color: #F00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+}
+h2{
+    color: #A00;
+}
+li span{
+    color: #060;
+}
+li{
+    color: #00F;
+}
+.negrita{
+    font-weight: bold;
+    font-size: 20px;
+}
+.segundo{
+    color: #FFF;
+    background-color: #000;
+    font-style: italic;
+}
